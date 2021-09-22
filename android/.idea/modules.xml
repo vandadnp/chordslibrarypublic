@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/702959135/android.assets_audio_player.iml" filepath="$PROJECT_DIR$/.idea/modules/702959135/android.assets_audio_player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1027507788/android.assets_audio_player_web.iml" filepath="$PROJECT_DIR$/.idea/modules/-1027507788/android.assets_audio_player_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-187402894/android.cloud_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/-187402894/android.cloud_firestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/617296422/android.firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/617296422/android.firebase_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1695714650/android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/1695714650/android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/865606699/android.webview_flutter.iml" filepath="$PROJECT_DIR$/.idea/modules/865606699/android.webview_flutter.iml" />
+    </modules>
+  </component>
+</project>
